@@ -29,10 +29,10 @@
 
 ---
 
-## 📫 Contact Me
-- ✉️ Email: [raghupathyrajaoff@gmail.com](mailto:raghupathyrajaoff@gmail.com)  
-- 🔗 LinkedIn: [www.linkedin.com/in/raghupathy-raja]((linkedin.com/in/raghupathy-raja))
+📫 Contact Me  
+✉️ Email: raghupathyrajaoff@gmail.com  
+🔗 [LinkedIn: raghupathy-raja](https://www.linkedin.com/in/raghupathy-raja)  
+🌐 [Portfolio Website](https://ragh-u.github.io/Portfolio)
 
----
 
 > *I’m passionate about creating tech that simplifies lives. Let’s connect and build something awesome together!*
