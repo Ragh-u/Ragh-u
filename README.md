@@ -31,7 +31,7 @@
 
 ## 📫 Contact Me
 - ✉️ Email: [raghupathyrajaoff@gmail.com](mailto:raghupathyrajaoff@gmail.com)  
-- 🔗 LinkedIn: [www.linkedin.com/in/raghupathy-raja](www.linkedin.com/in/raghupathy-raja)
+- 🔗 LinkedIn: [www.linkedin.com/in/raghupathy-raja]([www.linkedin.com/in/raghupathy-raja](https://www.linkedin.com/in/raghupathy-raja-0969a9370/))
 
 ---
 
