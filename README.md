@@ -1,17 +1,38 @@
-# 👋 Hi, I'm Raghupathyraja
+# 👋 Hi, I'm Raghupathy Raja
 
-🎓 B.Sc. AI & ML Graduate | 🐍 Python Developer | 💻 Tech Explorer  
-📌 Portfolio: [ragh-u.github.io/Portfolio](https://ragh-u.github.io/Portfolio)
+🎓 B.Sc. AI & ML Graduate  
+🐍 Python Developer | 💻 Tech Explorer | 🔍 Problem Solver  
 
-### 🧠 Skills
-- Python, R, HTML, CSS
-- RPA (UiPath), Tableau
-- Git, GitHub
+🌐 **Portfolio**: [ragh-u.github.io/Portfolio](https://ragh-u.github.io/Portfolio)
 
-### 📂 Projects
-- 🎨 Image Editor using Tkinter
-- 🎬 Film Info App using IMDbPy
+---
 
-### 📫 Contact Me
-- ✉️ Email: raghupathyrajaoff@gmail.com
+## 🧠 Skills
+- **Languages**: Python, R, HTML, CSS  
+- **Tools**: UiPath (RPA), Tableau, Excel, PowerPoint  
+- **Version Control**: Git & GitHub  
+- **Soft Skills**: Communication, Teamwork, Time Management
+
+---
+
+## 📂 Projects
+
+### 🎨 [Image Editor](https://github.com/Ragh-u/Image-Editor)
+> A desktop GUI tool for real-time image editing  
+> ✅ Brightness, contrast, HSV color shift, custom filters  
+> ✅ Built with Tkinter, PIL, NumPy  
+
+### 🎬 [FilmFinder](https://github.com/Ragh-u/FilmFinder)
+> Movie info search app using IMDbPy  
+> ✅ Genre-based suggestions  
+> ✅ GUI with treeviews for cast, ratings, and info  
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: [raghupathyrajaoff@gmail.com](mailto:raghupathyrajaoff@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/raghupathy-raja-0969a9370](https://linkedin.com/in/raghupathy-raja-0969a9370)
+
+---
+
+> *I’m passionate about creating tech that simplifies lives. Let’s connect and build something awesome together!*
