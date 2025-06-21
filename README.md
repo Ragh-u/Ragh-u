@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Raghupathyraja
 
-<!--
-**Ragh-u/Ragh-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. AI & ML Graduate | 🐍 Python Developer | 💻 Tech Explorer  
+📌 Portfolio: [ragh-u.github.io/Portfolio](https://ragh-u.github.io/Portfolio)
 
-Here are some ideas to get you started:
+### 🧠 Skills
+- Python, R, HTML, CSS
+- RPA (UiPath), Tableau
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- 🎨 Image Editor using Tkinter
+- 🎬 Film Info App using IMDbPy
+
+### 📫 Contact Me
+- ✉️ Email: raghupathyrajaoff@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/raghupathy-raja-0969a9370](https://linkedin.com/in/raghupathy-raja-0969a9370)
