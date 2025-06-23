@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raghupathy Raja
 
 🎓 B.Sc. AI & ML Graduate  
-🐍 Python Developer | 💻 Tech Explorer | 🔍🤖 AI & ML Enthusiast
+🐍 Aspiring Python Developer | 💻 Tech Explorer | 🔍🤖 AI & ML Enthusiast
 
 🌐 **Portfolio**: [ragh-u.github.io/Portfolio](https://ragh-u.github.io/Portfolio)
 
